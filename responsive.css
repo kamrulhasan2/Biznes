@@ -126,6 +126,7 @@
 	.slider-item .slider-btn-1{ font-size:10px; padding:7px 9px; margin:5px 10px; }
 
 	.about-img {margin-bottom: 45px; }
+	.about-img img { top: 0; left:0;}
 	
 	.service-area .service-item { margin-bottom: 70px;}
 
@@ -135,6 +136,7 @@
 	
 	.team-member-area .mem-img{text-align:center;}
 	.team-member-area .mem-img img {margin:15px;}
+	.team-member-area .mem-img img {margin:15px 0;}
 	
 	.footer-area .container-fluid { width:90%; margin:auto;}
 }

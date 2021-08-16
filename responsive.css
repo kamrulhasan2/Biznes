@@ -117,7 +117,7 @@
 
 
 @media (max-width: 767px) {
-	
+	.header-top{display:none;}
 	.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {bottom:0;}
 	.slider-item .slider-text p{  display:none;}
 	
